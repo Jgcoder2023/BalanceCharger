@@ -1,0 +1,42 @@
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+DebugConfig/
+RTE/
+build/
+**/JLinkLog.txt
+
+# Other files and folders
+.settings/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+*.cmsis
+*.eide
+*.vscode
+*.qtc_clangd
+*.clang-format
+.eide.usr.ctx.json
+*.uvguix.gongji
+*.uvguix.Jgcoder
+*.scvd
+*.idea
+*.hex
+*.vscode
+*.vscode/*
+*.mxproject
+*.zip
+JLinkSettings.ini
+MDK-ARM.code-workspace
+startup_stm32f103xb.lst
+
+**/tmp
+
+*.map
+**/MDK/*.lst
+**/unpackage/

@@ -1,0 +1,23 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "物联网平衡充电器&数控电源"
+			}
+		},
+		{
+			"path": "pages/index/edit",
+			"style": {
+				"navigationBarTitleText": "物联网平衡充电器&数控电源"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "#ffffff",
+		"navigationBarTitleText": "物联网平衡充电器&数控电源",
+		"navigationBarBackgroundColor": "#6579ff",
+		"backgroundColor": "#ffffff"
+	},
+	"uniIdRouter": {}
+}
